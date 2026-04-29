@@ -32,7 +32,6 @@ software engineer building across the stack — web apps, systems & home infra, 
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="22" />
   &nbsp;·&nbsp;
   <img src="https://cdn.simpleicons.org/proxmox/E57000" height="22" />
-  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="22" />
   <img src="https://cdn.simpleicons.org/opnsense/D94F00" height="22" />
   &nbsp;·&nbsp;
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="22" />
