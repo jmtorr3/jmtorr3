@@ -28,6 +28,7 @@ software engineer building across the stack — web apps, systems & home infra, 
   <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="22" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="22" />
   <img src="https://cdn.simpleicons.org/openjdk/437291" height="22" />
+  <img src="https://cdn.simpleicons.org/swift/F05138" height="22" />
   <img src="https://cdn.simpleicons.org/nixos/5277C3" height="22" />
   &nbsp;·&nbsp;
   <img src="https://cdn.simpleicons.org/django/092E20" height="22" />
