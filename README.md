@@ -1,6 +1,6 @@
 ### hi, i'm jt
 
-software engineer building across the stack — web apps, systems & home infra. always I love low-level.
+software engineer building across the stack — web apps, systems & home infra. I love learning about low-level stuff.
 
 ---
 
