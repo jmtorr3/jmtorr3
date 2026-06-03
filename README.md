@@ -5,7 +5,7 @@ software engineer building across the stack — web apps, systems & home infra. 
 ---
 
 #### <img src="https://unpkg.com/lucide-static/icons/globe.svg" width="18" align="center" /> web & apps
-- **[personal-blog](https://github.com/jmtorr3/personal-blog)** — full-stack blogging platform (React + Django + Postgres)
+- **[personal-blog](https://github.com/jmtorr3/personal-blog)** — full-stack blogging platform (React + Django + Postgres) · [live](https://blog.sys32ent.com/)
 - **[Garage64](https://github.com/jmtorr3/Garage64)** — Minecraft CEM pack builder with a Three.js 3D preview
 - **[portfolio](https://github.com/jmtorr3/jmtorr3.github.io)** — Personal site, built with Vite + React
 
