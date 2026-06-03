@@ -1,6 +1,6 @@
 ### hi, i'm jt
 
-software engineer building across the stack — web apps, systems & home infra, and the occasional ML side project. always learning something low-level on the side.
+software engineer building across the stack — web apps, systems & home infra. always I love low-level.
 
 ---
 
@@ -15,7 +15,6 @@ software engineer building across the stack — web apps, systems & home infra, 
 #### <img src="https://unpkg.com/lucide-static/icons/flask-conical.svg" width="18" align="center" /> learning & research
 - **[celeste-rl](https://github.com/jmtorr3/celeste-rl)** — DQN / BC / hybrid agent learning Celeste Classic (VT ML final project)
 - **[celeste-rl-web](https://github.com/jmtorr3/celeste-rl-web)** — PICO-8-styled results writeup with demos, charts, and methodology · [live](https://jmtorr3.github.io/celeste-rl-web/)
-- **LKP journal** — daily notes working through Linux kernel internals
 - **[tamagotchi-cli](https://github.com/jmtorr3/tamagotchi-cli)** — terminal virtual pet in TS, just for fun
 
 ---
