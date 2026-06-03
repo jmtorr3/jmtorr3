@@ -3,6 +3,7 @@
 software engineer building across the stack — web apps, systems & home infra. I love learning about low-level stuff.
 
 🌐 Blog: https://blog.sys32ent.com/ — self-hosted technical blog where I write about software, Linux, infrastructure, networking, and things I'm learning.
+
 ---
 
 #### <img src="https://unpkg.com/lucide-static/icons/globe.svg" width="18" align="center" /> web & apps
