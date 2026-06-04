@@ -8,7 +8,7 @@ software engineer building across the stack — web apps, systems & home infra. 
 
 #### <img src="https://unpkg.com/lucide-static/icons/globe.svg" width="18" align="center" /> web & apps
 - **[Garage64](https://github.com/jmtorr3/Garage64)** — Prototype Minecraft CEM pack builder with a Three.js 3D preview
-- **[portfolio](https://github.com/jmtorr3/jmtorr3.github.io)** — Personal site, built with Vite + React
+- **[portfolio](https://github.com/jmtorr3/jmtorr3.github.io)** — Personal site, built with Vite + React · [live](https://jmtorr3.github.io/)
 
 #### <img src="https://unpkg.com/lucide-static/icons/server.svg" width="18" align="center" /> systems & infra
 - **[Dotfiles](https://github.com/jmtorr3/Dotfiles)** — Neovim, Hyprland on Linux, AeroSpace + Sketchybar on macOS
