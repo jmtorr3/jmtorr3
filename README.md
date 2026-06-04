@@ -14,8 +14,8 @@ software engineer building across the stack — web apps, systems & home infra. 
 - **[Dotfiles](https://github.com/jmtorr3/Dotfiles)** — Neovim, Hyprland on Linux, AeroSpace + Sketchybar on macOS
 
 #### <img src="https://unpkg.com/lucide-static/icons/flask-conical.svg" width="18" align="center" /> learning & research
-- **[celeste-rl](https://github.com/jmtorr3/celeste-rl)** — DQN / BC / hybrid agent learning Celeste Classic (VT ML final project)
-- **[celeste-rl-web](https://github.com/jmtorr3/celeste-rl-web)** — PICO-8-styled results writeup with demos, charts, and methodology · [live](https://jmtorr3.github.io/celeste-rl-web/)
+- **[celeste-rl](https://github.com/jmtorr3/celeste-rl)** — DQN / BC / hybrid agent learning Celeste Classic (VT ML final project) · [live](https://jmtorr3.github.io/celeste-rl-web/)
+- **[celeste-rl-web](https://github.com/jmtorr3/celeste-rl-web)** — Research project exploring catastrophic forgetting and iterative mixed-data attacks against LLM safety defenses
 
 ---
 
