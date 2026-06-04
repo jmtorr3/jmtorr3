@@ -2,12 +2,12 @@
 
 software engineer building across the stack — web apps, systems & home infra. I love learning about low-level stuff.
 
-🌐 Blog: https://blog.sys32ent.com/ — self-hosted technical blog where I write about software, Linux, infrastructure, networking, and things I'm learning.
+🌐 [Blog](https://blog.sys32ent.com/) — self-hosted technical blog where I write about software, Linux, infrastructure, networking, and things I'm learning.
 
 ---
 
 #### <img src="https://unpkg.com/lucide-static/icons/globe.svg" width="18" align="center" /> web & apps
-- **[Garage64](https://github.com/jmtorr3/Garage64)** — Minecraft CEM pack builder with a Three.js 3D preview
+- **[Garage64](https://github.com/jmtorr3/Garage64)** — Minecraft prototype EM pack builder with a Three.js 3D preview
 - **[portfolio](https://github.com/jmtorr3/jmtorr3.github.io)** — Personal site, built with Vite + React
 
 #### <img src="https://unpkg.com/lucide-static/icons/server.svg" width="18" align="center" /> systems & infra
@@ -16,7 +16,6 @@ software engineer building across the stack — web apps, systems & home infra. 
 #### <img src="https://unpkg.com/lucide-static/icons/flask-conical.svg" width="18" align="center" /> learning & research
 - **[celeste-rl](https://github.com/jmtorr3/celeste-rl)** — DQN / BC / hybrid agent learning Celeste Classic (VT ML final project)
 - **[celeste-rl-web](https://github.com/jmtorr3/celeste-rl-web)** — PICO-8-styled results writeup with demos, charts, and methodology · [live](https://jmtorr3.github.io/celeste-rl-web/)
-- **[tamagotchi-cli](https://github.com/jmtorr3/tamagotchi-cli)** — terminal virtual pet in TS, just for fun
 
 ---
 
